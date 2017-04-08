@@ -27,3 +27,22 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 
 - Be able to create simple functions on my own.
 
+## Steps for making a blog post with git:
+
+- Make a new file inside _/posts
+
+- Must have format 2017-4-9-title.md
+
+- Copy content from previous blog post, paste it in.
+
+- Update title and content for today.
+
+- Inside command line, navigate to your project folder
+
+- git status
+- git add .
+- git status
+- git commit -m "short message here"
+- git status
+- git push
+
