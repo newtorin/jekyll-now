@@ -7,25 +7,23 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 
 ## Today I learned (#TIL):
 
-- ...thing 1
-- ...thing 2
+- that amount of time, which you need to learn something new is 20 hours.
+- mySQL  is an open-source relational database management system (RDBMS).
 
 ## Questions:
 
-- ...thing 1
-- ...thing 2
+- How to strucutre functions in JavaScript?
+
 
 ## Bugs discovered / what I got stuck on:
 
-- ...thing 1
-- ...thing 2
+
 
 ## Useful links to save for later:
 
-- ...thing 1
-- ...thing 2
+- be patient
 
 ## My next goals:
 
-- ...thing 1
-- ...thing 2
+- Be able to create simple functions on my own.
+
