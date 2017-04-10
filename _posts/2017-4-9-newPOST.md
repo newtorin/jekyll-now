@@ -3,7 +3,6 @@ layout: post
 title: Day 2
 ---
 
-This is my first blog post made with Jekyll! Woohoo! In this first post, I'll share some notes on what I learned today at the first class meeting of the very first [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
 
 ## Today I learned (#TIL):
 
@@ -13,10 +12,6 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 ## Questions:
 
 - How to strucutre functions in JavaScript?
-
-
-## Bugs discovered / what I got stuck on:
-
 
 
 ## Useful links to save for later:
