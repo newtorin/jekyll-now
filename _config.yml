@@ -8,8 +8,8 @@ name: Blog of the APRIL
 # Short bio or description (displayed in the header)
 description: Some notes of my way in web development world
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://tkballroom.com/wp-content/uploads/2015/11/TK_white-216x1401.png
+# URL of your avatar or profile pic (from FB's open graph profile picture)
+avatar: //graph.facebook.com/v2.1/100000066622721/picture?height=70&width=70
 
 #
 # Flags below are optional
